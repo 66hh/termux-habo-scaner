@@ -1,6 +1,0 @@
-#!/data/data/com.termux/files/usr/bin/bash
-apt-get update
-apt-get install python git
-git clone https://gitee.com/open-bilibili/termux-habo-scaner.git
-cd termux-habo-scaner
-python HaboScaner.py
