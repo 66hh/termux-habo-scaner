@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python
+#!/usr/bin/env python
 #coding = utf - 8
 
 import os;
@@ -14,8 +14,10 @@ def CheckFile(URL):
     except:
         return CheckFile(URL);
     if "red color" in data and "\\u9ad8\\u5ea6\\u98ce\\u9669" in data:
+        return "Trojan/Habo.Virus";
+    elif "orange color" in data and "\\u8f7b\\u5ea6\\u98ce\\u9669" in data:
         return "Trojan/Habo.Suspicious";
-    else:
+    else :
         return "safe";
     
 def GetFileMd5(strFile):
