@@ -1,4 +1,4 @@
-apt-get install python git
+apt-get install python
 git clone https://gitee.com/open-bilibili/termux-habo-scaner.git
 cd termux-habo-scaner
 python HaboScaner.py
