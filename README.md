@@ -11,7 +11,7 @@ pkg install python git
 
 2.克隆仓库
 
-git clone https://gitee.com/open-bilibili/termux-habo-scaner.git
+git clone https://github.com/66hh/termux-habo-scaner.git
 
 3.运行脚本
 
