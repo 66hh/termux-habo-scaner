@@ -1,5 +1,4 @@
-pkg install python
-pkg install git
+pkg install python git -y
 git clone https://gitee.com/open-bilibili/termux-habo-scaner.git
 cd termux-habo-scaner
 python HaboScaner.py
