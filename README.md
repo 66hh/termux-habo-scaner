@@ -5,10 +5,10 @@
 #### 依赖
 python 3.6
 #### 安装方法
-1.安装git&python
-pkg install python git
-2.克隆仓库
-git clone https://gitee.com/open-bilibili/termux-habo-scaner.git
-3.运行脚本
-cd termux-habo-scaner
+1.安装git&python</br>
+pkg install python git</br>
+2.克隆仓库</br>
+git clone https://gitee.com/open-bilibili/termux-habo-scaner.git</br>
+3.运行脚本</br>
+cd termux-habo-scaner</br>
 python HaboScaner.py
