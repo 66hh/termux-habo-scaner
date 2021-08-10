@@ -18,3 +18,5 @@ git clone https://github.com/66hh/termux-habo-scaner.git
 cd termux-habo-scaner
 
 python HaboScaner.py
+#### Gitee仓库
+https://gitee.com/open-bilibili/termux-habo-scaner
